@@ -1,2 +1,14 @@
-Git is a version control system.
-Git is free software.
+综述
+https://github.com/Jyouhou/SceneTextPapers
+
+
+源码
+FOTS(Text Localization + Recognition, tensorflow)： 
+https://github.com/MichalBusta/DeepTextSpotter
+
+DeepTextSpotter(Text Localization + Recognition, Caffe)： 
+https://github.com/MichalBusta/DeepTextSpotter
+
+EAST(Text Localization, tensorflow):
+https://github.com/zxytim/EAST
+
